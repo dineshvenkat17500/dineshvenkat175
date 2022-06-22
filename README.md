@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dineshvenkat175
-- 👀 I’m interested in Software
+- 👀 I’m interested in Software technologies
 - 🌱 I’m currently learning Programming Languages
