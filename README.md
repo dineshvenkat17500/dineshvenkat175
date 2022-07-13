@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dineshvenkat175
-- 👀 I’m interested in Software technologies
-- 🌱 I’m currently learning Programming Languages
+- 👀 I’m interested in Python
+- 🌱 I’m currently Learning and Searching for an Oppertuity to Build Myself.
